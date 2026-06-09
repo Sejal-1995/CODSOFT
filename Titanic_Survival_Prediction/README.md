@@ -34,7 +34,6 @@ TOOLS USED:
 *Python
 *Google Colab
 *Pandas
-*Numpy
 *Matplotlib
 *Scikit-learn
 
