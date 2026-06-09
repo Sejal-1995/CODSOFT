@@ -1,9 +1,10 @@
 # Titanic-Survival-Prediction
 
-This project is a machine learning model that predicts whether a passenger survived the Titanic disaster or not. I used Python libraries and a Logistic Regression model to build it.
+This project is a machine learning model that predicts whether a passenger survived the Titanic disaster or not. I used Python libraries and a Logistic Regression
+model to build it.
 
 GOAL:
-The main goal of the project is to understand hoe machine learning works by using real dataet and making predictions based on it.
+The main goal of the project is to understand how machine learning works by using real dataset and making predictions based on it.
 
 DATASET:
 The dataset contains infromation about Titanic passengers such as:
