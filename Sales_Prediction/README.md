@@ -40,20 +40,32 @@ Tools Used:
 * Scikit-learn
 * Google Colab
 
-Working on this project helped me get practical experience with:  
-* Data cleaning and preprocessing
-* Handling missing values
-* Exploratory Data Analysis (EDA)
-* Feature engineering and encoding
-* Training machine learning models
-* Evaluating regression models
-* Interpreting model results and predictions
+What I Learned:  
+* Understood the importance of data preprocessing in model performance
+* Gained experience in identifying patterns through EDA
+* Learned how feature engineering improves model accuracy
+* Understood how different regression models behave on real-world data
+* Learned how feature importance helps interpret model decisions
 
+Data Visualization:  
+1. Sales Distribution:
+   <img width="1280" height="788" alt="image" src="https://github.com/user-attachments/assets/1916b533-3514-4642-90ec-55e81545ad3f" />
+  Distribution of Item Outlet Sales across all products.  
+
+2. Outlet vs Sales:
+    <img width="1280" height="936" alt="image" src="https://github.com/user-attachments/assets/dd257133-4c1d-45b8-b508-eec4639a5cfe" />
+  This suggests that outlet type has a strong influence on overall sales performance.  
+
+3. Feature Importance:
+    <img width="1280" height="710" alt="image" src="https://github.com/user-attachments/assets/9934ec3d-a475-48cb-abf3-ecdbe128e5a9" />
+  Item MRP is the most important feature, followed by outlet type, while other features have relatively lower impact on predictions.
+   
 Model Performance:  
 * Mean Absolute Error(MAE): 761.99
 * Root Mean Squared Error(RMSE): 1092.96
 * R2 Score: 0.5605
 
+Conclusion:  
 Overall, this project gave me a practical understanding of the complete machine learning workflow, from cleaning and exploring data to training and evaluating a predictive model. I learned how to handle missing values, work with different types of data, create meaningful visualizations, and apply machine learning algorithms to solve a real-world business problem. It also helped me improve my skills in Python and data analysis while understanding how data-driven insights can be used to predict sales and support business decisions. Most importantly, I gained hands-on experience turning raw data into useful predictions and insights.
 
 Notes:  
