@@ -37,21 +37,20 @@ What I Learned:
 * Learned how model coefficients can be interpreted to understand feature influence on predictions.
 
 Data Visualization:  
-1. Sales Distribution:
-   <img width="1280" height="788" alt="image" src="https://github.com/user-attachments/assets/1916b533-3514-4642-90ec-55e81545ad3f" />
-  Distribution of Item Outlet Sales across all products.  
+1. Pair Plot Analysis:
+  <img width="1097" height="573" alt="image" src="https://github.com/user-attachments/assets/1d051866-1590-4b74-804e-b25971ebc128" />
+  <img width="1218" height="661" alt="image" src="https://github.com/user-attachments/assets/8ba42369-14d6-49ef-be06-2a3f843ad1fa" />
 
-2. Outlet vs Sales:
-    <img width="1280" height="936" alt="image" src="https://github.com/user-attachments/assets/dd257133-4c1d-45b8-b508-eec4639a5cfe" />
-  This suggests that outlet type has a strong influence on overall sales performance.  
+  The visualization shows that TV and Radio advertising have a stronger positive relationship with sales, while Newspaper advertising has a weaker impact.    
 
-3. Feature Importance:
-    <img width="1280" height="710" alt="image" src="https://github.com/user-attachments/assets/9934ec3d-a475-48cb-abf3-ecdbe128e5a9" />
-  Item MRP is the most important feature, followed by outlet type, while other features have relatively lower impact on predictions.
+2. Actual vs Predicted Sales:
+    <img width="1049" height="666" alt="image" src="https://github.com/user-attachments/assets/5fb34454-146c-4b4c-b5e8-8e657ef7eef6" />
+
+  This plot helps evaluate the model’s accuracy by comparing actual and predicted sales values.
    
 Model Performance:  
-* Mean Squared Error(MSE): 1092.96
-* R2 Score: 0.5605
+* Mean Squared Error(MSE): 2.908
+* R2 Score: 0.9059
 
 Conclusion:  
 Overall, this project provided hands-on experience with the complete machine learning workflow, from data exploration and visualization to model training and evaluation. I learned how advertising expenditure can influence product sales and how Linear Regression can be used to quantify these relationships. The project improved my understanding of predictive analytics, feature interpretation, and regression modeling. It also strengthened my Python, data analysis, and machine learning skills while demonstrating how data-driven insights can support marketing and business decisions.
